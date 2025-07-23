@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emonshil</h1>
 <h3 align="center">DevOps Engineer | System Admin | Cloud Enthusiast</h3>
 
+<!-- 🔄 Replace this with your real animated banner GIF link -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shilemon/shilemon/main/assets/devops-banner.gif" width="800" alt="Animated DevOps Banner"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -21,41 +26,41 @@
 
 ---
 
-### 🧰 Languages & Tools (Animated Logos)
+### 🧰 Languages & Tools
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.gif?raw=true" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 
-  <!-- Tools & Frameworks -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prometheus.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/grafana.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sonarqube.svg" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/pm2.png" width="50"/>
-  <img src="https://avatars.githubusercontent.com/u/66109644?s=200&v=4" width="50" alt="BetterStack"/>
+  <!-- Frameworks & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/prometheus.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/grafana.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sonarqube.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/pm2.png" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66109644?s=200&v=4" width="40" alt="BetterStack"/>
 </p>
 
 ---
