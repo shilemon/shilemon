@@ -1,3 +1,6 @@
+<!-- 🌌 Fancy Background Container Start -->
+<div align="center" style="background: url('https://www.transparenttextures.com/patterns/stardust.png'); background-color: #0f172a; padding: 40px; border-radius: 12px;">
+
 <h1 align="center">Hi 👋, I'm Emonshil</h1>
 <h3 align="center">DevOps Engineer  | System Admin | Cloud Enthusiast</h3>
 
@@ -73,3 +76,6 @@
 ### 🤝 Connect with Me
 - 📧 Email: [emonshil.htuc@gmail.com](mailto:emonshil.htuc@gmail.com)
 - 🔗 Linkdin: [LinkedIn, Portfolio or Contact Link Here](https://www.linkedin.com/in/emon-shil-45ba97272/)
+
+</div>
+<!-- 🌌 Fancy Background Container End -->
