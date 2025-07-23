@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shilemon</h1>
-<h3 align="center">DevOps Engineer | Backend Developer | System Admin | Cloud Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Emonshil</h1>
+<h3 align="center">DevOps Engineer  | System Admin | Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -71,5 +71,5 @@
 ---
 
 ### 🤝 Connect with Me
-- 📧 Email: [shilemon@example.com](mailto:shilemon@example.com)
-- 🔗 LinkedIn, Portfolio or Contact Link Here
+- 📧 Email: [emonshil.htuc@gmail.com](mailto:emonshil.htuc@gmail.com)
+- 🔗 Linkdin: [LinkedIn, Portfolio or Contact Link Here](https://www.linkedin.com/in/emon-shil-45ba97272/)
