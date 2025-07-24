@@ -1,3 +1,4 @@
+You said:
 <h1 align="center">Hi 👋, I'm Emonshil</h1>
 <h3 align="center">DevOps Engineer  | System Admin | Cloud Enthusiast</h3>
 
@@ -14,7 +15,6 @@
 
 ### 💼 About Me
 - 🔧 Currently working as a **DevOps Engineer**
-- 🎓 Graduate of **American International University-Bangladesh (AIUB)**
 - 🧠 Passionate about **cloud-native development**, **automation**, and **monitoring**
 - 🔍 Exploring **BetterStack**, **Grafana**, and **Prometheus**
 - 💬 Ask me about Linux, Docker, CI/CD, or backend systems
@@ -73,4 +73,4 @@
 
 ### 🤝 Connect with Me
 - 📧 Email: [emonshil.htuc@gmail.com](mailto:emonshil.htuc@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/emon-shil-45ba97272/](https://www.linkedin.com/in/emon-shil-45ba97272/)
+- 🔗 Linkdin: [LinkedIn, Portfolio or Contact Link Here](https://www.linkedin.com/in/emon-shil-45ba97272/)
