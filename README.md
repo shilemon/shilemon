@@ -1,4 +1,3 @@
-You said:
 <h1 align="center">Hi 👋, I'm Emonshil</h1>
 <h3 align="center">DevOps Engineer  | System Admin | Cloud Enthusiast</h3>
 
