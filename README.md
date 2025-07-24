@@ -14,6 +14,7 @@
 
 ### 💼 About Me
 - 🔧 Currently working as a **DevOps Engineer**
+- 🎓 Graduate of **American International University-Bangladesh (AIUB)**
 - 🧠 Passionate about **cloud-native development**, **automation**, and **monitoring**
 - 🔍 Exploring **BetterStack**, **Grafana**, and **Prometheus**
 - 💬 Ask me about Linux, Docker, CI/CD, or backend systems
@@ -72,4 +73,4 @@
 
 ### 🤝 Connect with Me
 - 📧 Email: [emonshil.htuc@gmail.com](mailto:emonshil.htuc@gmail.com)
-- 🔗 Linkdin: [LinkedIn, Portfolio or Contact Link Here](https://www.linkedin.com/in/emon-shil-45ba97272/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/emon-shil-45ba97272/](https://www.linkedin.com/in/emon-shil-45ba97272/)
