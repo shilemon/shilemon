@@ -33,31 +33,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
-
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilemon&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shilemon&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilemon&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilemon&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🟦 Contribution Activity Graph
-
-[![Emon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=react-dark&hide_border=true)](https://github.com/shilemon)
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** emonshil.htuc@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/emon-shil-45ba97272
-
-
-
----
-
-⭐ *If you like my profile, consider giving a ⭐ to my repositories!*
+### 🤝 Connect with Me
+- 📧 Email: [emonshil.htuc@gmail.com](mailto:emonshil.htuc@gmail.com)
+- 🔗 Linkdin: [LinkedIn, Portfolio or Contact Link Here](https://www.linkedin.com/in/emon-shil-45ba97272/)
