@@ -38,23 +38,25 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emon110852&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shilemon&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon110852&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilemon&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ## 🟦 Contribution Activity Graph
 
-[![Emon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emon110852&theme=react-dark&hide_border=true)](https://github.com/emon110852)
+[![Emon’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=react-dark&hide_border=true)](https://github.com/shilemon)
 
 ---
 
 ## 🤝 Connect With Me
 
 📧 **Email:** emonshil.htuc@gmail.com  
-🔗 **LinkedIn:** *Add your LinkedIn link here*
+🔗 **LinkedIn:** www.linkedin.com/in/emon-shil-45ba97272
+
+
 
 ---
 
