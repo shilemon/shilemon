@@ -1,3 +1,10 @@
+<!-- ===== Mario Coding Animation (TOP) ===== -->
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500" alt="Coding Animation"/>
+</div>
+
+<br/>
+
 <!-- ===== Animated Header ===== -->
 <div align="center">
 
@@ -53,11 +60,11 @@ I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux s
 ## ⚙️ What I Do (Daily DevOps Life)
 
 ✅ Design & manage **CI/CD pipelines**  
-✅ Build containerized apps with **Docker**  
+✅ Build containerized apps using **Docker**  
 ✅ Deploy & scale services on **Kubernetes**  
 ✅ Architect **AWS infrastructure**  
-✅ Monitor systems using **Prometheus & Grafana**  
-✅ Debug **Linux & production incidents**  
+✅ Monitor systems with **Prometheus & Grafana**  
+✅ Debug **Linux & production incidents**
 
 ---
 
@@ -75,9 +82,7 @@ I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux s
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shilemon&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shilemon&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -85,9 +90,7 @@ I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux s
 ## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=tokyo-night&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -95,19 +98,15 @@ I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux s
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## 💬 DevOps Quote (Auto-Animated)
+## 💬 DevOps Quote
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
