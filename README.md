@@ -1,125 +1,101 @@
-<!-- ===== Animated Header ===== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Emon%20Shil&fontSize=44&fontAlignY=35&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00E6FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+%26+System+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Automation;Monitoring+%7C+Reliability+%7C+Linux;Always+Learning+%26+Building" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Emon%20Shil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shilemon&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Monitoring+%7C+Reliability+%7C+Linux;AWS+%7C+Docker+%7C+Kubernetes;Automation+%26+Cloud+Native+Systems" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shilemon&label=Profile%20Views&color=4FC3F7&style=flat" />
 
 </div>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 About Me
 
-🚀 **DevOps Engineer** focused on building **scalable, automated, and reliable cloud-native systems**.  
-I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux systems to keep production environments healthy and resilient.
+I am a **DevOps Engineer** with a strong focus on **automation, system reliability, and cloud-native infrastructure**.  
+I enjoy working close to systems — building, observing, tuning, and keeping production environments stable.
 
-- 🚀 Automation-first DevOps mindset  
-- ☁️ Strong in **AWS, CI/CD, Docker, Kubernetes**  
-- 📡 Observability with **Grafana, Prometheus, BetterStack**  
-- 🐧 Linux system tuning & troubleshooting  
-- 🔐 Reliability, monitoring & incident response  
+- ☁️ Cloud & Infrastructure (AWS)
+- 🔄 CI/CD & Automation
+- 🐳 Containers & Kubernetes
+- 📊 Monitoring & Observability
+- 🐧 Linux systems & troubleshooting
 
 ---
 
-## 🧰 Skills
+## 🧰 Technical Skills
 
-### 🚀 Cloud & DevOps
-<p align="left">
+### Cloud & DevOps
+<p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,ansible&perline=6" />
 </p>
 
-### 📡 Monitoring & Observability
-<p align="left">
+### Monitoring & Observability
+<p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-### 🛠 Backend & Databases
-<p align="left">
+### Backend & Databases
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgres,nginx&perline=6" />
 </p>
 
-### 🖥 Operating Systems
-<p align="left">
+### Operating Systems
+<p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
 ---
 
-## ⚙️ What I Do (Daily DevOps Life)
+## 🧑‍💼 What I Work On
 
-✅ Design & manage **CI/CD pipelines**  
-✅ Build containerized apps with **Docker**  
-✅ Deploy & scale services on **Kubernetes**  
-✅ Architect **AWS infrastructure**  
-✅ Monitor systems using **Prometheus & Grafana**  
-✅ Debug **Linux & production incidents**  
+- Designing and maintaining **CI/CD pipelines**
+- Containerizing applications with **Docker**
+- Deploying & scaling services on **Kubernetes**
+- Managing **AWS infrastructure**
+- Implementing monitoring with **Prometheus & Grafana**
+- Debugging Linux & production issues
 
 ---
 
-## 📊 GitHub Performance
+## 💻 Coding & Automation (Classy Animation)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shilemon&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilemon&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="coding animation"/>
+
+</div>
+
+<p align="center">
+<em>Automation, scripting, and system-level problem solving</em>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shilemon&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilemon&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Connect
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shilemon&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 💬 DevOps Quote (Auto-Animated)
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
+<p>
   <a href="mailto:emonshil.htuc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/emon-shil-45ba97272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
@@ -127,8 +103,10 @@ I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux s
 
 <div align="center">
 
-✨ *“Automate everything. Observe deeply. Recover fast.”* ✨  
+<em>“Build reliable systems. Observe everything. Automate relentlessly.”</em>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=60&section=footer" />
 
 </div>
