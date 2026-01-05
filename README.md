@@ -1,9 +1,13 @@
 <!-- ===== Animated Header ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Emon%20Shil&fontSize=42&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Emon%20Shil&fontSize=44&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%26+System+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Automation;Monitoring+%7C+Reliability+%7C+Linux" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00E6FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+%26+System+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Automation;Monitoring+%7C+Reliability+%7C+Linux;Always+Learning+%26+Building" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shilemon&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -12,12 +16,13 @@
 ## 💼 About Me
 
 🚀 **DevOps Engineer** focused on building **scalable, automated, and reliable cloud-native systems**.  
-I enjoy working with infrastructure, CI/CD pipelines, and monitoring systems to keep production environments healthy and efficient.
+I enjoy working with infrastructure, CI/CD pipelines, observability, and Linux systems to keep production environments healthy and resilient.
 
-- 🚀 DevOps Engineer focused on automation & cloud-native solutions  
-- ☁️ Skilled in **AWS, CI/CD, Docker, Kubernetes, Infrastructure Management**  
-- 📡 Interested in monitoring tools like **Grafana, Prometheus, BetterStack**  
-- 🐧 Passionate about **Linux systems** and backend technologies  
+- 🚀 Automation-first DevOps mindset  
+- ☁️ Strong in **AWS, CI/CD, Docker, Kubernetes**  
+- 📡 Observability with **Grafana, Prometheus, BetterStack**  
+- 🐧 Linux system tuning & troubleshooting  
+- 🔐 Reliability, monitoring & incident response  
 
 ---
 
@@ -45,18 +50,18 @@ I enjoy working with infrastructure, CI/CD pipelines, and monitoring systems to 
 
 ---
 
-## ⚙️ What I Do
+## ⚙️ What I Do (Daily DevOps Life)
 
-✅ Build & manage **CI/CD pipelines**  
-✅ Containerize applications using **Docker**  
-✅ Deploy & manage workloads on **Kubernetes**  
-✅ Design **AWS infrastructure**  
-✅ Monitor systems with **Prometheus & Grafana**  
-✅ Troubleshoot **Linux & production issues**
+✅ Design & manage **CI/CD pipelines**  
+✅ Build containerized apps with **Docker**  
+✅ Deploy & scale services on **Kubernetes**  
+✅ Architect **AWS infrastructure**  
+✅ Monitor systems using **Prometheus & Grafana**  
+✅ Debug **Linux & production incidents**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -67,7 +72,27 @@ I enjoy working with infrastructure, CI/CD pipelines, and monitoring systems to 
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shilemon&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shilemon&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -77,7 +102,17 @@ I enjoy working with infrastructure, CI/CD pipelines, and monitoring systems to 
 
 ---
 
-## 🤝 Connect with Me
+## 💬 DevOps Quote (Auto-Animated)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:emonshil.htuc@gmail.com">
@@ -92,8 +127,8 @@ I enjoy working with infrastructure, CI/CD pipelines, and monitoring systems to 
 
 <div align="center">
 
-✨ *“Automate everything. Monitor deeply. Ship reliably.”* ✨
+✨ *“Automate everything. Observe deeply. Recover fast.”* ✨  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn" />
 
 </div>
